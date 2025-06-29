@@ -1,19 +1,16 @@
-## About:
-I make videos about programming and programming-related concepts 
-**@indently** & **@rustfully**.
+## About
+I make videos about programming and programming-related concepts at **[@indently](https://youtube.com/@indently)** and **[@rustfully](https://youtube.com/@rustfully)**.  
 
+## Tools:
+- **Code Editor**: Zed 
+- **Theme**: JetBrains New Dark (Zed version)
+- **Computer**: MacBook Air M1 2020, 8GB RAM
+- **Microphone**: Shure MV7+
 
-<!--
-**federicoazzu/federicoazzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=federicoazzu&show_icons=true&theme=radical" alt="stats"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notes:
+_Has anyone seen Bob recently?_
