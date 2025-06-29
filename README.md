@@ -1,4 +1,7 @@
-## Hi there 👋
+## About:
+I make videos about programming and programming-related concepts 
+**@indently** & **@rustfully**.
+
 
 <!--
 **federicoazzu/federicoazzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
