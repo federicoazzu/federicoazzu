@@ -2,7 +2,7 @@
 I make videos about programming and programming-related concepts at **[@indently](https://youtube.com/@indently)** and **[@rustfully](https://youtube.com/@rustfully)**.  
 
 ## Tools:
-- **Code Editor**: Zed 
+- **Code Editor**: Zed ([My config](https://github.com/federicoazzu/zedsettings/blob/main/settings.json))
 - **Theme**: JetBrains New Dark (Zed version)
 - **Computer**: MacBook Air M1 2020, 8GB RAM
 - **Microphone**: Shure MV7+
