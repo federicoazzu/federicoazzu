@@ -1,5 +1,10 @@
 ## About
-I make videos about programming and programming-related concepts at **[@indently](https://youtube.com/@indently)**, **[@rustfully](https://youtube.com/@rustfully)**, and **[@appfully](https://youtube.com/@appfully)**.
+I make videos about programming and programming-related concepts.
+
+## Channels
+- **Indently**: https://youtube.com/@indently <br />
+- **Rustfully**: https://youtube.com/@rustfully <br />
+- **Appfully**: https://youtube.com/@appfully
 
 ## Tools:
 - **Code Editor**:
