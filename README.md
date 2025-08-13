@@ -3,13 +3,10 @@ I make videos about programming and programming-related concepts.
 
 ## Channels
 - **Indently**: https://youtube.com/@indently <br />
-- **Rustfully**: https://youtube.com/@rustfully <br />
-- **Appfully**: https://youtube.com/@appfully
+- **Rustfully**: https://youtube.com/@rustfully
 
 ## Tools:
-- **Code Editor**:
-  - **Indently & Rustfully**: Zed ([Config](https://github.com/federicoazzu/zedsettings/blob/main/settings.json))
-  - **Appfully**: Android Studio
+- **Code Editor**: Zed ([Config](https://github.com/federicoazzu/zedsettings/blob/main/settings.json))
 - **Theme**: JetBrains New Dark (Zed version)
 - **Computer**: MacBook Air M1 2020, 8GB RAM
 - **Microphone**: Shure MV7+
